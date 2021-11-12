@@ -18,6 +18,8 @@ Had the lives set one too high for the hangman visuals. So putting it back to ma
 <br>
 Currently having a issue with deployment.
 ![image](https://user-images.githubusercontent.com/87777851/141429229-51f4e651-c04e-4a23-a0f2-d3fc0e225fdc.png)
+<br>
+Fixed all of the deployment issues. Wasn't deploying due to a couple syntax errors left in the main code.
 
 
 ### Credits
