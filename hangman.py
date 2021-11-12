@@ -43,7 +43,7 @@ def hangman():
         else:
             print('\nThat is not a valid letter.')
     
-    if lives = 0:
+    if lives == 0:
         print(hangman_lives_visual[lives])
         print('You have lost the game of Hangman. The word was', word)
     else:
