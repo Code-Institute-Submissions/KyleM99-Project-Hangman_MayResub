@@ -31,7 +31,7 @@ def hangman():
         # User guess
         user_letter = input('Guess a letter: ').upper()
         if user_letter in alphabet - used_letters:
-            used_letters.add(user_letter):
+            used_letters.add(user_letter)
             if user_letter in words_letter:
                 words_letter.remove(user_letter)
                 print('')
