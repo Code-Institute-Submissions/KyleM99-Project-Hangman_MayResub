@@ -1,31 +1,24 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Hangman-Project
+## Game of Hangman.
 
-Welcome USER_NAME,
+### My goal for this project is to create a game of hangman. 
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **August 17, 2021**
+## Design
+Well there really isnt much new or revolutionary about the design of hangman, so hopefully it will look the same as every other one..
+                    [br]
+                    O
+                  \\|/
+                    |
+                   / \\
+                   [br]
 
-## Reminders
 
-* Your code must be placed in the `run.py` file
-* Your dependencies must be placed in the `requirements.txt` file
-* Do not edit any of the other files or your code may not deploy properly
+## Bug Testing[if needed]
+Had the lives set one too high for the hangman visuals. So putting it back to match the amount of visuals fixed that issue
+[br]
+Currently having a issue with deployment.
+![image](https://user-images.githubusercontent.com/87777851/141429229-51f4e651-c04e-4a23-a0f2-d3fc0e225fdc.png)
 
-## Creating the Heroku app
 
-When you create the app, you will need to add two buildpacks from the _Settings_ tab. The ordering is as follows:
-
-1. `heroku/python`
-2. `heroku/nodejs`
-
-You must then create a _Config Var_ called `PORT`. Set this to `8000`
-
-If you have credentials, such as in the Love Sandwiches project, you must create another _Config Var_ called `CREDS` and paste the JSON into the value field.
-
-Connect your GitHub repository and deploy as normal.
-
-## Constraints
-
-The deployment terminal is set to 80 columns by 24 rows. That means that each line of text needs to be 80 characters or less otherwise it will be wrapped onto a second line.
-
------
-Happy coding!
+### Credits
+I looked at several youtube videos and multiple github repositories whilst making this so i had a better understanding as how many different ways hangman could be coded.
