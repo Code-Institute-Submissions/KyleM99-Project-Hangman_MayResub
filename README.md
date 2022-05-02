@@ -23,4 +23,8 @@ Fixed all of the deployment issues. Wasn't deploying due to a couple syntax erro
 
 
 ### Credits
-I looked at several youtube videos and multiple github repositories whilst making this so i had a better understanding as how many different ways hangman could be coded.
+[YouTube Video](https://www.youtube.com/watch?v=m4nEnsavl6w&ab_channel=Kite)
+[YouTube Video](https://www.youtube.com/watch?v=pFvSb7cb_Us&ab_channel=ShaunHalverson)
+[YouTube Video](https://www.youtube.com/watch?v=JNXmCOumNw0&ab_channel=CBTNuggets)
+[YouTube Video](https://www.youtube.com/watch?v=WZZ9pY-cP2s&ab_channel=PriyamKapoor)
+[YouTube Video](https://www.youtube.com/watch?v=5x6iAKdJB6U&ab_channel=NeuralNine)
